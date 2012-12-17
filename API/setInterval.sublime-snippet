@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+setInterval ->
+  ${2:# ...}
+, ${1:interval}
+]]></content>
+  <tabTrigger>setInterval</tabTrigger>
+  <scope>source.coffee</scope>
+</snippet>

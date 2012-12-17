@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+define [${1}], (${2}) ->
+	${3:'use strict'}
+	${4:# ...}
+]]></content>
+  <tabTrigger>define</tabTrigger>
+  <scope>source.coffee</scope>
+</snippet>

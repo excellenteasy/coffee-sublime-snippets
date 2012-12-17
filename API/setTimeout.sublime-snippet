@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+setTimeout ->
+	${2:# ...}
+, ${1:timeout}
+]]></content>
+  <tabTrigger>setTimeout</tabTrigger>
+  <scope>source.coffee</scope>
+</snippet>

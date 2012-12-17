@@ -1,0 +1,17 @@
+<snippet>
+  <content><![CDATA[
+###
+ *
+ * ${1:project}
+ * http://github.com/${2:excellenteasy}/${1:project}
+ *
+ * Copyright © 2012 ${3:Stephan Bönnemann}
+ * Licensed under the ${4:MIT} license.
+###
+${0}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>banner</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.coffee</scope>
+</snippet>

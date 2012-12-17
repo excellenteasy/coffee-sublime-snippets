@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+if ${1:condition} then ${2:# ...}
+]]></content>
+  <tabTrigger>ifthenelse</tabTrigger>
+  <scope>source.coffee</scope>
+</snippet>

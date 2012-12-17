@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+((${1:this}) ->
+	${2: # ...}
+) ${1:this}
+]]></content>
+  <tabTrigger>(->)</tabTrigger>
+  <scope>source.coffee</scope>
+  <description>immediately invoked function</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${2}unless ${1:condition}
+]]></content>
+  <tabTrigger>unless</tabTrigger>
+  <scope>source.coffee</scope>
+</snippet>

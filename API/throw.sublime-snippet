@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+throw new ${1:Error}
+]]></content>
+  <tabTrigger>throw</tabTrigger>
+  <scope>source.coffee</scope>
+</snippet>

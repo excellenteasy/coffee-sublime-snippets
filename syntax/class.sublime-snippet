@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+class ${1} ${2: extends }
+	constructor: ${3:()} ->
+		${4:# ...}
+]]></content>
+	<tabTrigger>class</tabTrigger>
+	<scope>source.coffee</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+for ${1:i} in ${2:array}
+  ${3:# ...}
+]]></content>
+  <tabTrigger>forin</tabTrigger>
+  <scope>source.coffee</scope>
+</snippet>
