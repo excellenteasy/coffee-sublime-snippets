@@ -1,11 +1,11 @@
 # coffee sublime snippets
 ## Collection of Sublime Text 2 snippets related to CoffeeScript
 
-These snippets do no require any learning, simply because they are based on what you type anways.
+These snippets do not require any learning, simply because they are based on what you type anways.
 
 ## Installation (Mac)
 
-You probably have the snippets of the [CoffeeScript-Sublime-Plugin](http://xavura.github.com/CoffeeScript-Sublime-Plugin/) and we'll now remove them because they **do** require learning. (*optional*)
+You probably have snippets of the [CoffeeScript-Sublime-Plugin](http://xavura.github.com/CoffeeScript-Sublime-Plugin/) and we'll now remove them because they **do** require learning. (*optional*)
 
 `rm -r ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/CoffeeScript/Snippets`
 
