@@ -5,7 +5,7 @@ These snippets do not require any learning, simply because they are based on wha
 
 ## Installation (Mac)
 
-You probably have snippets of the [CoffeeScript-Sublime-Plugin](http://xavura.github.com/CoffeeScript-Sublime-Plugin/) and we'll now remove them because they **do** require learning. (*optional*)
+You probably have snippets of the [CoffeeScript-Sublime-Plugin](http://xavura.github.com/CoffeeScript-Sublime-Plugin/) and we'll now remove them because they **do** require learning. *optional*
 
 `rm -r ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/CoffeeScript/Snippets`
 
