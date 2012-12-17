@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
 class ${1} ${2: extends }
-	constructor: ${3:()} ->
-		${4:# ...}
+	${3:constructor: ${4:()} ->
+		${5:super}}
 ]]></content>
 	<tabTrigger>class</tabTrigger>
 	<scope>source.coffee</scope>
